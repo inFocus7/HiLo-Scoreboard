@@ -1,0 +1,6 @@
+﻿  Source.cpp
+Source.cpp(89): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  All 195 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  hwk1.vcxproj -> C:\Users\fabia\Desktop\Computer Science\Projects\C++\hwk1\Release\hwk1.exe
